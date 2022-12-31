@@ -7,6 +7,7 @@ I'm really excited to spend the next few years learning about this field, in thi
 
 Currently, I'm looking for a mentor in the field who can help guide my research. If you have some spare time on your hands and feel like helping a high schooler, please reach out!
 Don't worry about your geographic location, remote mentorship is totally an option!
+Email me at tschwartz542025@gmail.com if you are interested in being my mentor, and please put "GITHUB" in the subject line.
 
 If you want, take a look at the data science project I did with AI Camp! It's very basic, but I loved learning about how to work with data. 
 I'll be learning with them in the summer again! If you are interested in you or your child participating in the program, use this link for $100 (USD) off!
