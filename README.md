@@ -3,7 +3,7 @@ Hi, I'm Teddy, a High School student in New York! It's nice to meet you!
 I'm interested in cooperative agents, like those in https://github.com/HumanCompatibleAI/overcooked_ai or applied to the game Hanabi.
 
 I'm very new, but I'm currently participating in my school's Science Research program. I'm doing my best to contribute to the Overcooked Project, which is linked above.
-I owe a huge thanks to @51616, my mentor in the program. I'm working under him and he's really quite excellent. If you are looking for a new Research Intern you should contact him.
+I owe a huge thanks to [@51616](https://github.com/51616), my mentor in the program. I'm working under him and he's really quite excellent. If you are looking for a new Research Intern you should contact him.
 I'm really excited to spend the next few years learning about this field, in this program and in college.
 
 If you want, take a look at the data science project I did with AI Camp! It's very basic, but I loved learning about how to work with data. 
